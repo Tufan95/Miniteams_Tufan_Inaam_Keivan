@@ -11,6 +11,6 @@ puis on lance mais en mettent le PID du server lancer et un message avec, exempl
 
 ./client (PID) "message que tu veux adresser"
 
-Fin des explicationsde lancement.
+Fin des explications de lancement.
 
 
